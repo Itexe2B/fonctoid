@@ -1,11 +1,86 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {}
+    "net6.0": {
+      "CsvHelper/30.0.1": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/CsvHelper.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/CsvHelper.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "AbstractFonctoid/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/AbstractFonctoid.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/AbstractFonctoid.dll": {}
+        }
+      },
+      "Data/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "CsvHelper": "30.0.1"
+        },
+        "compile": {
+          "bin/placeholder/Data.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Data.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "CsvHelper/30.0.1": {
+      "sha512": "rcZtgbWR+As4G3Vpgx0AMNmShGuQLFjkHAPIIflzrfkJCx8/AOd4m96ZRmiU1Wi39qS5UVjV0P8qdgqOo5Cwyg==",
+      "type": "package",
+      "path": "csvhelper/30.0.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "csvhelper.30.0.1.nupkg.sha512",
+        "csvhelper.nuspec",
+        "lib/net45/CsvHelper.dll",
+        "lib/net45/CsvHelper.xml",
+        "lib/net47/CsvHelper.dll",
+        "lib/net47/CsvHelper.xml",
+        "lib/net5.0/CsvHelper.dll",
+        "lib/net5.0/CsvHelper.xml",
+        "lib/net6.0/CsvHelper.dll",
+        "lib/net6.0/CsvHelper.xml",
+        "lib/netstandard2.0/CsvHelper.dll",
+        "lib/netstandard2.0/CsvHelper.xml",
+        "lib/netstandard2.1/CsvHelper.dll",
+        "lib/netstandard2.1/CsvHelper.xml"
+      ]
+    },
+    "AbstractFonctoid/1.0.0": {
+      "type": "project",
+      "path": "../AbstractFonctoid/AbstractFonctoid.csproj",
+      "msbuildProject": "../AbstractFonctoid/AbstractFonctoid.csproj"
+    },
+    "Data/1.0.0": {
+      "type": "project",
+      "path": "../Data/Data.csproj",
+      "msbuildProject": "../Data/Data.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net6.0": []
+    "net6.0": [
+      "AbstractFonctoid >= 1.0.0",
+      "Data >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\diego\\.nuget\\packages\\": {}
@@ -33,7 +108,14 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\diego\\Desktop\\Cours\\M2 INFO\\Collin\\fonctoid\\AbstractFonctoid\\AbstractFonctoid.csproj": {
+              "projectPath": "C:\\Users\\diego\\Desktop\\Cours\\M2 INFO\\Collin\\fonctoid\\AbstractFonctoid\\AbstractFonctoid.csproj"
+            },
+            "C:\\Users\\diego\\Desktop\\Cours\\M2 INFO\\Collin\\fonctoid\\Data\\Data.csproj": {
+              "projectPath": "C:\\Users\\diego\\Desktop\\Cours\\M2 INFO\\Collin\\fonctoid\\Data\\Data.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
