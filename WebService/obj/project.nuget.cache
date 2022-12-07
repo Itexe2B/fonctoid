@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "GEjUvgWKYXTzPvVddozdIy8+dvsXV5RQD1B0ewuMTcpI+AAznLs5OrKkbNXNDpQBouaZiDNdfbZnsPD9Kkm9MQ==",
+  "dgSpecHash": "fX0wIi8wfcyckcz/7VcDQj4/wfFkMAstl+Xl1R0bMmsheCRr2BkWWq1M3Rp9DhZwluGHxuMfi9pfu+cWwfBUyQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\diego\\Desktop\\Cours\\M2 INFO\\Collin\\fonctoid\\WebService\\WebService.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\diego\\.nuget\\packages\\csvhelper\\30.0.1\\csvhelper.30.0.1.nupkg.sha512",
     "C:\\Users\\diego\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\diego\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
     "C:\\Users\\diego\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
