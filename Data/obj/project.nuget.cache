@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "lXLkRaDSjliBhpf7MlJAQvz5SXrdbbrc42shZgwawW3pK5AvjDlWh4GEf+hBCQZZ0MczEPI4BGTzbb+DKHD6gA==",
+  "dgSpecHash": "pY1sPuQOgzihMWRig4ow9xtK7XlsJEvFyrLCKA3YfF43oCW9JwpPCwJ7Jl48xlZL6oGBG/Tfa2BH8A11uWH19A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\diego\\Desktop\\Cours\\M2 INFO\\Collin\\fonctoid\\Data\\Data.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Ragiot Hugo\\source\\repos\\fonctoid\\Data\\Data.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ragiot Hugo\\.nuget\\packages\\csvhelper\\30.0.1\\csvhelper.30.0.1.nupkg.sha512"
+  ],
   "logs": []
 }

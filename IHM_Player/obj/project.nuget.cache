@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "mkj6rUj+NhUYr5qWtgvzh54VFZENYwLkxkdUqDQ33brYXe10NVS8t7C5vP3pGZF8JBLgUWUrNwVf49MNH8fpHA==",
+  "dgSpecHash": "nTMiiKglMUmsux4mlYhAYbzZLsHQGLCYmvzhcwnx7YQWW8sijc6l+1h47HpAkTKKCs0p3wysJyTfOUVTskiffQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\diego\\Desktop\\Cours\\M2 INFO\\Collin\\fonctoid\\IHM_Player\\IHM_Player.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Ragiot Hugo\\source\\repos\\fonctoid\\IHM_Player\\IHM_Player.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ragiot Hugo\\.nuget\\packages\\csvhelper\\30.0.1\\csvhelper.30.0.1.nupkg.sha512"
+  ],
   "logs": []
 }

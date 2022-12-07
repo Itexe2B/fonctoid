@@ -1,20 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\diego\\Desktop\\Cours\\M2 INFO\\Collin\\fonctoid\\WebService\\WebService.csproj": {}
+    "C:\\Users\\Ragiot Hugo\\source\\repos\\fonctoid\\WebService\\WebService.csproj": {}
   },
   "projects": {
-    "C:\\Users\\diego\\Desktop\\Cours\\M2 INFO\\Collin\\fonctoid\\WebService\\WebService.csproj": {
+    "C:\\Users\\Ragiot Hugo\\source\\repos\\fonctoid\\WebService\\WebService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\diego\\Desktop\\Cours\\M2 INFO\\Collin\\fonctoid\\WebService\\WebService.csproj",
+        "projectUniqueName": "C:\\Users\\Ragiot Hugo\\source\\repos\\fonctoid\\WebService\\WebService.csproj",
         "projectName": "WebService",
-        "projectPath": "C:\\Users\\diego\\Desktop\\Cours\\M2 INFO\\Collin\\fonctoid\\WebService\\WebService.csproj",
-        "packagesPath": "C:\\Users\\diego\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\diego\\Desktop\\Cours\\M2 INFO\\Collin\\fonctoid\\WebService\\obj\\",
+        "projectPath": "C:\\Users\\Ragiot Hugo\\source\\repos\\fonctoid\\WebService\\WebService.csproj",
+        "packagesPath": "C:\\Users\\Ragiot Hugo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Ragiot Hugo\\source\\repos\\fonctoid\\WebService\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\diego\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Ragiot Hugo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,6 +27,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -64,7 +70,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }
