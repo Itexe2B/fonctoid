@@ -32,3 +32,7 @@ C:\Users\diego\Desktop\Cours\M2 INFO\Collin\fonctoid\IHM_Designer\obj\Debug\net6
 C:\Users\diego\Desktop\Cours\M2 INFO\Collin\fonctoid\IHM_Designer\obj\Debug\net6.0-windows\IHM_Designer.pdb
 C:\Users\diego\Desktop\Cours\M2 INFO\Collin\fonctoid\IHM_Designer\obj\Debug\net6.0-windows\IHM_Designer.genruntimeconfig.cache
 C:\Users\diego\Desktop\Cours\M2 INFO\Collin\fonctoid\IHM_Designer\obj\Debug\net6.0-windows\ref\IHM_Designer.dll
+C:\Users\diego\Desktop\Cours\M2 INFO\Collin\fonctoid\IHM_Designer\bin\Debug\net6.0-windows\CsvHelper.dll
+C:\Users\diego\Desktop\Cours\M2 INFO\Collin\fonctoid\IHM_Designer\bin\Debug\net6.0-windows\Data.dll
+C:\Users\diego\Desktop\Cours\M2 INFO\Collin\fonctoid\IHM_Designer\bin\Debug\net6.0-windows\Data.pdb
+C:\Users\diego\Desktop\Cours\M2 INFO\Collin\fonctoid\IHM_Designer\obj\Debug\net6.0-windows\IHM_Designer.csproj.CopyComplete

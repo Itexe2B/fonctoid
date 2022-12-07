@@ -1,0 +1,17 @@
+C:\Users\diego\Desktop\Cours\M2 INFO\Collin\fonctoid\Fonctoid\bin\Debug\net6.0\Fonctoid.deps.json
+C:\Users\diego\Desktop\Cours\M2 INFO\Collin\fonctoid\Fonctoid\bin\Debug\net6.0\Fonctoid.dll
+C:\Users\diego\Desktop\Cours\M2 INFO\Collin\fonctoid\Fonctoid\bin\Debug\net6.0\Fonctoid.pdb
+C:\Users\diego\Desktop\Cours\M2 INFO\Collin\fonctoid\Fonctoid\bin\Debug\net6.0\AbstractFonctoid.dll
+C:\Users\diego\Desktop\Cours\M2 INFO\Collin\fonctoid\Fonctoid\bin\Debug\net6.0\Data.dll
+C:\Users\diego\Desktop\Cours\M2 INFO\Collin\fonctoid\Fonctoid\bin\Debug\net6.0\AbstractFonctoid.pdb
+C:\Users\diego\Desktop\Cours\M2 INFO\Collin\fonctoid\Fonctoid\bin\Debug\net6.0\Data.pdb
+C:\Users\diego\Desktop\Cours\M2 INFO\Collin\fonctoid\Fonctoid\obj\Debug\net6.0\Fonctoid.csproj.AssemblyReference.cache
+C:\Users\diego\Desktop\Cours\M2 INFO\Collin\fonctoid\Fonctoid\obj\Debug\net6.0\Fonctoid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diego\Desktop\Cours\M2 INFO\Collin\fonctoid\Fonctoid\obj\Debug\net6.0\Fonctoid.AssemblyInfoInputs.cache
+C:\Users\diego\Desktop\Cours\M2 INFO\Collin\fonctoid\Fonctoid\obj\Debug\net6.0\Fonctoid.AssemblyInfo.cs
+C:\Users\diego\Desktop\Cours\M2 INFO\Collin\fonctoid\Fonctoid\obj\Debug\net6.0\Fonctoid.csproj.CoreCompileInputs.cache
+C:\Users\diego\Desktop\Cours\M2 INFO\Collin\fonctoid\Fonctoid\obj\Debug\net6.0\Fonctoid.csproj.CopyComplete
+C:\Users\diego\Desktop\Cours\M2 INFO\Collin\fonctoid\Fonctoid\obj\Debug\net6.0\Fonctoid.dll
+C:\Users\diego\Desktop\Cours\M2 INFO\Collin\fonctoid\Fonctoid\obj\Debug\net6.0\refint\Fonctoid.dll
+C:\Users\diego\Desktop\Cours\M2 INFO\Collin\fonctoid\Fonctoid\obj\Debug\net6.0\Fonctoid.pdb
+C:\Users\diego\Desktop\Cours\M2 INFO\Collin\fonctoid\Fonctoid\obj\Debug\net6.0\ref\Fonctoid.dll

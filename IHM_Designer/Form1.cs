@@ -48,16 +48,19 @@ namespace IHM_Designer
                 csv.ReadHeader();
                 foreach (string arrItem in csv.HeaderRecord)
                 {
-                    Data.Data.header.Add(arrItem);
+                    Data.Data.header = arrItem.Split(";").ToList();
                 }
                 //Stock header in Data.data.header
 
+                for (int i = 0; i < Data.Data.header.Count; i++)
+                {
+                    Data.Data.csv.Add(new List<String>());
+                }
+                
                 while (csv.Read())
                 {
-                    for (int i = 0; i < Data.Data.header.Count; i++)
-                    {
-                        Data.Data.csv[i].Add(csv.GetField<string>(Data.Data.header[i]));
-                    }
+                    var row = csv.GetField(0).Split(";").ToList();
+                    Data.Data.csv.ForEach(@v => v.Add(row[Data.Data.csv.IndexOf(@v)]));
                 }
             }
         }

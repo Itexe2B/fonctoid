@@ -1,0 +1,12 @@
+C:\Users\diego\Desktop\Cours\M2 INFO\Collin\fonctoid\AbstractFonctoid\bin\Debug\net6.0\AbstractFonctoid.deps.json
+C:\Users\diego\Desktop\Cours\M2 INFO\Collin\fonctoid\AbstractFonctoid\bin\Debug\net6.0\AbstractFonctoid.dll
+C:\Users\diego\Desktop\Cours\M2 INFO\Collin\fonctoid\AbstractFonctoid\bin\Debug\net6.0\AbstractFonctoid.pdb
+C:\Users\diego\Desktop\Cours\M2 INFO\Collin\fonctoid\AbstractFonctoid\obj\Debug\net6.0\AbstractFonctoid.csproj.AssemblyReference.cache
+C:\Users\diego\Desktop\Cours\M2 INFO\Collin\fonctoid\AbstractFonctoid\obj\Debug\net6.0\AbstractFonctoid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diego\Desktop\Cours\M2 INFO\Collin\fonctoid\AbstractFonctoid\obj\Debug\net6.0\AbstractFonctoid.AssemblyInfoInputs.cache
+C:\Users\diego\Desktop\Cours\M2 INFO\Collin\fonctoid\AbstractFonctoid\obj\Debug\net6.0\AbstractFonctoid.AssemblyInfo.cs
+C:\Users\diego\Desktop\Cours\M2 INFO\Collin\fonctoid\AbstractFonctoid\obj\Debug\net6.0\AbstractFonctoid.csproj.CoreCompileInputs.cache
+C:\Users\diego\Desktop\Cours\M2 INFO\Collin\fonctoid\AbstractFonctoid\obj\Debug\net6.0\AbstractFonctoid.dll
+C:\Users\diego\Desktop\Cours\M2 INFO\Collin\fonctoid\AbstractFonctoid\obj\Debug\net6.0\refint\AbstractFonctoid.dll
+C:\Users\diego\Desktop\Cours\M2 INFO\Collin\fonctoid\AbstractFonctoid\obj\Debug\net6.0\AbstractFonctoid.pdb
+C:\Users\diego\Desktop\Cours\M2 INFO\Collin\fonctoid\AbstractFonctoid\obj\Debug\net6.0\ref\AbstractFonctoid.dll

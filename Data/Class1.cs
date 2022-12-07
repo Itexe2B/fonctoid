@@ -5,8 +5,8 @@ namespace Data
 {
     public class Data
     {
-        public static List<List<String>> csv;
-        public static List<String> header; 
+        public static List<List<String>> csv = new List<List<string>>();
+        public static List<String> header = new List<string>(); 
 
     }
 }

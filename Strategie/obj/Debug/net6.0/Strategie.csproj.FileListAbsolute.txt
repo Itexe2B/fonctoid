@@ -1,0 +1,12 @@
+C:\Users\diego\Desktop\Cours\M2 INFO\Collin\fonctoid\Strategie\bin\Debug\net6.0\Strategie.deps.json
+C:\Users\diego\Desktop\Cours\M2 INFO\Collin\fonctoid\Strategie\bin\Debug\net6.0\Strategie.dll
+C:\Users\diego\Desktop\Cours\M2 INFO\Collin\fonctoid\Strategie\bin\Debug\net6.0\Strategie.pdb
+C:\Users\diego\Desktop\Cours\M2 INFO\Collin\fonctoid\Strategie\obj\Debug\net6.0\Strategie.csproj.AssemblyReference.cache
+C:\Users\diego\Desktop\Cours\M2 INFO\Collin\fonctoid\Strategie\obj\Debug\net6.0\Strategie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diego\Desktop\Cours\M2 INFO\Collin\fonctoid\Strategie\obj\Debug\net6.0\Strategie.AssemblyInfoInputs.cache
+C:\Users\diego\Desktop\Cours\M2 INFO\Collin\fonctoid\Strategie\obj\Debug\net6.0\Strategie.AssemblyInfo.cs
+C:\Users\diego\Desktop\Cours\M2 INFO\Collin\fonctoid\Strategie\obj\Debug\net6.0\Strategie.csproj.CoreCompileInputs.cache
+C:\Users\diego\Desktop\Cours\M2 INFO\Collin\fonctoid\Strategie\obj\Debug\net6.0\Strategie.dll
+C:\Users\diego\Desktop\Cours\M2 INFO\Collin\fonctoid\Strategie\obj\Debug\net6.0\refint\Strategie.dll
+C:\Users\diego\Desktop\Cours\M2 INFO\Collin\fonctoid\Strategie\obj\Debug\net6.0\Strategie.pdb
+C:\Users\diego\Desktop\Cours\M2 INFO\Collin\fonctoid\Strategie\obj\Debug\net6.0\ref\Strategie.dll
