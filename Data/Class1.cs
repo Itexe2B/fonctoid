@@ -1,5 +1,4 @@
-﻿using CsvHelper;
-using System.Globalization;
+﻿using System.Globalization;
 using System.Reflection.PortableExecutable;
 
 namespace Data

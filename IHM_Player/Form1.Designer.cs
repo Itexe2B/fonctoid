@@ -35,7 +35,7 @@
             // 
             // DisplayData
             // 
-            this.DisplayData.Location = new System.Drawing.Point(454, 233);
+            this.DisplayData.Location = new System.Drawing.Point(669, 346);
             this.DisplayData.Name = "DisplayData";
             this.DisplayData.Size = new System.Drawing.Size(101, 33);
             this.DisplayData.TabIndex = 0;
@@ -46,10 +46,11 @@
             // dataGridView
             // 
             this.dataGridView.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dataGridView.Location = new System.Drawing.Point(12, 12);
+            this.dataGridView.Location = new System.Drawing.Point(0, 0);
             this.dataGridView.Name = "dataGridView";
+            this.dataGridView.RowHeadersWidth = 51;
             this.dataGridView.RowTemplate.Height = 25;
-            this.dataGridView.Size = new System.Drawing.Size(408, 254);
+            this.dataGridView.Size = new System.Drawing.Size(663, 379);
             this.dataGridView.TabIndex = 1;
             // 
             // Form1
@@ -57,8 +58,8 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
-            this.Controls.Add(this.dataGridView);
             this.Controls.Add(this.DisplayData);
+            this.Controls.Add(this.dataGridView);
             this.Name = "Form1";
             this.Text = "Form1";
             this.Load += new System.EventHandler(this.Form1_Load);
