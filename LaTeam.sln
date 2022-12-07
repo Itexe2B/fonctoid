@@ -3,17 +3,19 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32825.248
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IHM_Designer", "IHM_Designer\IHM_Designer.csproj", "{88A78889-4E3B-48DF-919E-10F5D539B04F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IHM_Designer", "IHM_Designer\IHM_Designer.csproj", "{88A78889-4E3B-48DF-919E-10F5D539B04F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IHM_Player", "IHM_Player\IHM_Player.csproj", "{FAFC15DD-1C66-4216-AB26-9E3A48E213F7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IHM_Player", "IHM_Player\IHM_Player.csproj", "{FAFC15DD-1C66-4216-AB26-9E3A48E213F7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbstractFonctoid", "AbstractFonctoid\AbstractFonctoid.csproj", "{4DBC99DB-F4AD-4896-B998-152CD1BB9E78}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AbstractFonctoid", "AbstractFonctoid\AbstractFonctoid.csproj", "{4DBC99DB-F4AD-4896-B998-152CD1BB9E78}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fonctoid", "Fonctoid\Fonctoid.csproj", "{744AD74B-8B2F-402E-BF52-A4E3A5448981}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Fonctoid", "Fonctoid\Fonctoid.csproj", "{744AD74B-8B2F-402E-BF52-A4E3A5448981}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data", "Data\Data.csproj", "{31BEFF87-E402-487F-AAD8-EED1AA55B657}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Data", "Data\Data.csproj", "{31BEFF87-E402-487F-AAD8-EED1AA55B657}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebService", "WebService\WebService.csproj", "{7BB7EFF8-D29C-420A-A11A-96BBA31EF8D5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebService", "WebService\WebService.csproj", "{7BB7EFF8-D29C-420A-A11A-96BBA31EF8D5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Strategie", "Strategie\Strategie.csproj", "{B420DDE6-BD2C-4056-B5A5-BB3E2CABFF90}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{7BB7EFF8-D29C-420A-A11A-96BBA31EF8D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7BB7EFF8-D29C-420A-A11A-96BBA31EF8D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7BB7EFF8-D29C-420A-A11A-96BBA31EF8D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B420DDE6-BD2C-4056-B5A5-BB3E2CABFF90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B420DDE6-BD2C-4056-B5A5-BB3E2CABFF90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B420DDE6-BD2C-4056-B5A5-BB3E2CABFF90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B420DDE6-BD2C-4056-B5A5-BB3E2CABFF90}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
