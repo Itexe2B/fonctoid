@@ -68,24 +68,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\cleme\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\diego\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\cleme\\OneDrive\\Documents\\fonctoid\\IHM_Designer\\IHM_Designer.csproj",
+      "projectUniqueName": "C:\\Users\\diego\\Desktop\\Cours\\M2 INFO\\Collin\\fonctoid\\IHM_Designer\\IHM_Designer.csproj",
       "projectName": "IHM_Designer",
-      "projectPath": "C:\\Users\\cleme\\OneDrive\\Documents\\fonctoid\\IHM_Designer\\IHM_Designer.csproj",
-      "packagesPath": "C:\\Users\\cleme\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\cleme\\OneDrive\\Documents\\fonctoid\\IHM_Designer\\obj\\",
+      "projectPath": "C:\\Users\\diego\\Desktop\\Cours\\M2 INFO\\Collin\\fonctoid\\IHM_Designer\\IHM_Designer.csproj",
+      "packagesPath": "C:\\Users\\diego\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\diego\\Desktop\\Cours\\M2 INFO\\Collin\\fonctoid\\IHM_Designer\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\cleme\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\diego\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -93,15 +88,14 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net6.0-windows7.0": {
           "targetAlias": "net6.0-windows",
           "projectReferences": {
-            "C:\\Users\\cleme\\OneDrive\\Documents\\fonctoid\\Data\\Data.csproj": {
-              "projectPath": "C:\\Users\\cleme\\OneDrive\\Documents\\fonctoid\\Data\\Data.csproj"
+            "C:\\Users\\diego\\Desktop\\Cours\\M2 INFO\\Collin\\fonctoid\\Data\\Data.csproj": {
+              "projectPath": "C:\\Users\\diego\\Desktop\\Cours\\M2 INFO\\Collin\\fonctoid\\Data\\Data.csproj"
             }
           }
         }
@@ -140,7 +134,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }

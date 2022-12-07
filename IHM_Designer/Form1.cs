@@ -23,8 +23,8 @@ namespace IHM_Designer
         {
             OpenFileDialog openFileDialog1 = new OpenFileDialog();
             openFileDialog1.ShowDialog();
-            openFileDialog1.DefaultExt = ".csv";
-            openFileDialog1.Filter = "CSV Files (*.csv)|*.csv";
+            //openFileDialog1.DefaultExt = ".csv";
+            //openFileDialog1.Filter = "CSV Files (*.csv)|*.csv";
             UrlFile = openFileDialog1.FileName;
 
         }
@@ -35,8 +35,8 @@ namespace IHM_Designer
             {
                 OpenFileDialog openFileDialog1 = new OpenFileDialog();
                 openFileDialog1.ShowDialog();
-                openFileDialog1.DefaultExt = ".csv";
-                openFileDialog1.Filter = "CSV Files (*.csv)|*.csv";
+                //openFileDialog1.DefaultExt = ".csv";
+                //openFileDialog1.Filter = "CSV Files (*.csv)|*.csv";
                 UrlFile = openFileDialog1.FileName;
             }
 
@@ -44,35 +44,20 @@ namespace IHM_Designer
             using (var csv = new CsvReader(reader, CultureInfo.InvariantCulture))
             {
                 
-                csv.Read();
+                var test = csv.Read();
                 csv.ReadHeader();
-
+                foreach (string arrItem in csv.HeaderRecord)
+                {
+                    Data.Data.header.Add(arrItem);
+                }
                 //Stock header in Data.data.header
 
-                var has_header = true;
-                var csv_headers = new List<string>();
-                var header_index = 0;
                 while (csv.Read())
                 {
-                    has_header = csv.TryGetField<string>(header_index, out string? header_name);
-
-                    if (has_header)
+                    for (int i = 0; i < Data.Data.header.Count; i++)
                     {
-                        header_index += 1;
-                        csv_headers.Add(header_name);
-
+                        Data.Data.csv[i].Add(csv.GetField<string>(Data.Data.header[i]));
                     }
-
-                    for (var i = 0; i < csv_headers.Count; i++)
-                    {
-                        Data.Data.csv[i] = csv.GetField<String>(csv_headers[i]);
-                    }
-                    //
-
-                    //}
-
-                    //Se servir de GetField pour stocker dans data.csv
-                    //Tu as les noms des fields grace a header.
                 }
             }
         }
