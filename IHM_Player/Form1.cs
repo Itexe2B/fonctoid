@@ -15,12 +15,6 @@ namespace IHM_Player
 
         private void DisplayData_Click(object sender, EventArgs e)
         {
-<<<<<<< HEAD
-
-            
-=======
->>>>>>> 4eec09b56b118c9ec4fa478043c70afad30cd668
-            
             Data.Data.header.ForEach(@v => dataGridView.Columns.Add(@v, @v));
             for (int i = 0; i < Data.Data.csv.Count; i++)
             {
