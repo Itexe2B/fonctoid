@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "44Ws7mYVKf2A4GirKfZnDO19R5e06TCHWTrvJmlG1PjXXi157sJG22n7Itj6Fz6wBIeL/0yAewHq8sCZshO98A==",
+  "dgSpecHash": "+ponRP/8aNQ8fSFZywSjnJEyb/I7YcBnwEzPA67+vOrlaoIXe/+SlYRwi6A6C6+7EPWZlaqt5Gm5hMT1u0VYwg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\diego\\Desktop\\Cours\\M2 INFO\\Collin\\fonctoid\\IHM_Designer\\IHM_Designer.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\cleme\\OneDrive\\Documents\\fonctoid\\IHM_Designer\\IHM_Designer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cleme\\.nuget\\packages\\csvhelper\\30.0.1\\csvhelper.30.0.1.nupkg.sha512"
+  ],
   "logs": []
 }
